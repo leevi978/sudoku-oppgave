@@ -6,4 +6,4 @@
 2. Installer med npm install
 3. Kjør med npm start
 
-Instrukser er kommentert i koden!
+Start med å åpne `index.js`. Instrukser er kommentert i koden!
